@@ -1,4 +1,4 @@
-# naf-temporal1-2025
+# naf-temporal-2025
 
 This repository accompanies the **"Transforming Network Automation with Temporal"** presentation delivered at the Network Automation Forum, Prague, May 2025. It provides a Temporal workflow for network automation using Containerlab. You can try it out easily in GitHub Codespaces to explore configuration management automation via Temporal workflows.
 
