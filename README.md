@@ -76,6 +76,8 @@ show network-instance protocols bgp neighbor
 sudo containerlab destroy -t clab.yaml
 ```
 
+> **Note**: If you're using GitHub Codespaces, remember to delete your workspace when finished to avoid charges beyond your free tier allocation.
+
 ## References
 
 - [Temporal Documentation](https://docs.temporal.io/)
